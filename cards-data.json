@@ -3616,6 +3616,97 @@
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
       "notes": "Major production error: Unlimited holofoil print missing the Jungle set symbol. Large print run before correction. Documented on Bulbapedia error cards page."
+    },
+    {
+      "cardId": "jungle_10_holo_bleed",
+      "name": "Scyther",
+      "set": "Jungle",
+      "cardNumber": "10/64",
+      "type": "Grass",
+      "rarity": "Misprint",
+      "year": 1999,
+      "language": "English",
+      "variant": "Holo Bleed",
+      "artist": "Ken Sugimori",
+      "notes": "Holographic pattern extends beyond foil area into borders/text. Value: $30-$910 based on severity."
+    },
+    {
+      "cardId": "jungle_10_base2_logo_error",
+      "name": "Scyther",
+      "set": "Jungle",
+      "cardNumber": "10/64",
+      "type": "Grass",
+      "rarity": "Misprint",
+      "year": 1999,
+      "language": "English",
+      "variant": "Base Set 2 Logo Error",
+      "artist": "Ken Sugimori",
+      "notes": "EXTREMELY RARE - Jungle layout with Base Set 2 pokéball logo. Possibly 1-of-1 specimen."
+    },
+    {
+      "cardId": "jungle_10_registration_shift",
+      "name": "Scyther",
+      "set": "Jungle",
+      "cardNumber": "10/64",
+      "type": "Grass",
+      "rarity": "Misprint",
+      "year": 1999,
+      "language": "English",
+      "variant": "Registration Shift",
+      "artist": "Ken Sugimori",
+      "notes": "Color layers misaligned - black/magenta offset in wings, displaced symbols, energy symbol yellow bleed."
+    },
+    {
+      "cardId": "jungle_10_crimped",
+      "name": "Scyther",
+      "set": "Jungle",
+      "cardNumber": "10/64",
+      "type": "Grass",
+      "rarity": "Misprint",
+      "year": 1999,
+      "language": "English",
+      "variant": "Crimped Card",
+      "artist": "Ken Sugimori",
+      "notes": "Pack seal crimp damage through card edge from production."
+    },
+    {
+      "cardId": "jungle_10_ink_error",
+      "name": "Scyther",
+      "set": "Jungle",
+      "cardNumber": "10/64",
+      "type": "Grass",
+      "rarity": "Misprint",
+      "year": 1999,
+      "language": "English",
+      "variant": "Ink Stains/Hickeys",
+      "artist": "Ken Sugimori",
+      "notes": "Printing ink errors, stains, or smears from production process."
+    },
+    {
+      "cardId": "jungle_10_yellow_shift",
+      "name": "Scyther",
+      "set": "Jungle",
+      "cardNumber": "10/64",
+      "type": "Grass",
+      "rarity": "Misprint",
+      "year": 1999,
+      "language": "English",
+      "variant": "Yellow Border Shift",
+      "artist": "Ken Sugimori",
+      "notes": "Noticeably darker or lighter yellow border from color variance in printing."
+    },
+    {
+      "cardId": "hidden_fates_sv1_reverse_displacement",
+      "name": "Scyther",
+      "set": "Hidden Fates",
+      "cardNumber": "SV1/SV94",
+      "type": "Grass",
+      "rarity": "Misprint",
+      "year": 2019,
+      "language": "English",
+      "variant": "Reverse Holo Displacement",
+      "artist": "Mitsuhiro Arita",
+      "notes": "Reverse holo pattern misaligned or in wrong position on card."
     }
   ]
 }

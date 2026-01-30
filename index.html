@@ -426,6 +426,7 @@
                     <option value="Secret">Secret Rare</option>
                     <option value="Shiny">Shiny Rare</option>
                     <option value="Error Print">Error Print</option>
+                    <option value="Misprint">Misprint</option>
                 </select>
             </div>
             <div class="view-toggle">
@@ -500,7 +501,9 @@
                     (rarity === 'Rare' && card.rarity.includes('Rare') && !card.rarity.includes('Shiny')) ||
                     (rarity === 'Holo' && card.rarity.includes('Holo')) ||
                     (rarity === 'Secret' && card.rarity.includes('Secret')) ||
-                    (rarity === 'Shiny' && card.rarity.includes('Shiny'));
+                    (rarity === 'Shiny' && card.rarity.includes('Shiny')) ||
+                    (rarity === 'Error Print' && card.rarity.includes('Error')) ||
+                    (rarity === 'Misprint' && card.rarity.includes('Misprint'));
 
                 return matchSearch && matchLanguage && matchYear && matchRarity;
             });
