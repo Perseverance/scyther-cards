@@ -2,23 +2,52 @@
 
 A comprehensive, interactive database of every officially released Scyther Pokémon Trading Card, organized by language, year, set, and rarity.
 
+**🌐 Live Site:** [https://perseverance.github.io/scyther-cards/](https://perseverance.github.io/scyther-cards/)
+
 ## Overview
 
-This project catalogs **35 unique Scyther card variations** across all official Pokémon TCG sets since 1999, including:
+This project catalogs **233 Scyther card entries** across all official Pokémon TCG sets since 1999, including:
 
-- 🌍 **Multiple Languages**: English and Japanese editions
-- 📅 **25-Year Span**: From Jungle (1999) to Temporal Forces (2024)
+- 🌍 **14 Languages**: English, Japanese, German, French, Italian, Spanish, Portuguese, Korean, Chinese (Traditional & Simplified), Thai, Indonesian, Dutch, Russian
+- 📅 **27-Year Span**: From Jungle (1999) to Temporal Forces (2024)
 - 🎴 **All Variants**: Holographic, non-holographic, secret rare, shiny rare, promo, and EX variants
 - 🏆 **Multiple Rarities**: Common, Uncommon, Rare, Holographic, Secret Rare, Shiny Rare, and Promo cards
 - 🎨 **Set Variations**: Cards reprinted across different expansions
+- ⚠️ **Error Cards**: Known misprints documented with sources
 
-## Database Statistics
+## Database Statistics (v2.0.0)
 
-- **Total Cards Cataloged**: 35 unique entries
-- **Sets Featured**: 20+ different expansions
-- **Languages**: English, Japanese
-- **Years Covered**: 1999-2024 (25 years)
+- **Total Cards Cataloged**: 233 entries
+- **Sets Featured**: 30 different expansions
+- **Languages**: 14 languages
+- **Years Covered**: 1999-2024
 - **Card Types**: Basic Pokémon, Pokémon ex, Team Rocket variants
+- **Variation Types**: 9 (1st Edition, Unlimited, Reverse Holo, Shiny, etc.)
+- **Error Cards Documented**: With Bulbapedia source links
+
+## New Features (v2.0.0)
+
+### Official Set Codes
+All cards now include official Bulbapedia set codes (e.g., JU for Jungle, N2 for Neo Discovery).
+
+### Card Variations
+Each card entry includes an array of possible variations:
+- **1st Edition** - Early print run with "Edition 1" stamp
+- **Unlimited** - Standard print without 1st Ed stamp
+- **Reverse Holo** - Holographic pattern on card body
+- **Shiny** - Shiny/Shining variants
+- And more...
+
+### Error Card Documentation
+Known error cards include source links:
+- **Jungle Scyther (10/64) No Symbol Error** - Early Unlimited prints missing Jungle set symbol
+  - [Bulbapedia Source](https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10))
+
+### Enhanced UI
+- Variation filter in the controls
+- Error cards highlighted with yellow border
+- New statistics showing variation types and error counts
+- Table view includes new columns for set codes and variations
 
 ## Card Categories
 
