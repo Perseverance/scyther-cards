@@ -727,7 +727,7 @@
                     <div class="card ${card.hasError ? 'has-error' : ''}">
                         <div class="card-image">
                             ${card.hasError ? '<div class="error-badge">ERROR CARD</div>' : ''}
-                            <img src="${card.image}" alt="${card.name}" onerror="this.src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png'">
+                            <img src="${card.image}" alt="${card.name}" loading="lazy" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png'; this.parentElement.style.background='#ddd';">
                         </div>
                         <div class="card-content">
                             <div class="card-name">${card.name}</div>
