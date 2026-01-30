@@ -511,9 +511,13 @@
                     <option value="">All Variations</option>
                     <option value="1st Edition">1st Edition</option>
                     <option value="Unlimited">Unlimited</option>
+                    <option value="Standard">Standard</option>
                     <option value="Reverse Holo">Reverse Holo</option>
-                    <option value="Shiny">Shiny</option>
-                    <option value="Error">Error Cards</option>
+                    <option value="Shiny">Shiny / Shiny Rare</option>
+                    <option value="Illustration Rare">Illustration Rare</option>
+                    <option value="Special Art Rare">Special Art Rare</option>
+                    <option value="No Symbol Error">No Symbol Error</option>
+                    <option value="Error">All Error Cards</option>
                 </select>
             </div>
             <div class="control-group">
@@ -583,8 +587,8 @@
             // Count unique variations
             const allVariations = new Set();
             allCards.forEach(c => {
-                if (c.variations) {
-                    c.variations.forEach(v => allVariations.add(v));
+                if (c.variant) {
+                    allVariations.add(c.variant);
                 }
             });
             document.getElementById('totalVariations').textContent = allVariations.size;
@@ -620,13 +624,14 @@
                     (rarity === 'Shiny' && card.rarity.includes('Shiny'));
 
                 let matchVariation = variation === '';
-                if (!matchVariation && card.variations) {
+                if (!matchVariation && card.variant) {
+                    const cardVariant = card.variant.toLowerCase();
                     if (variation === 'Error') {
-                        matchVariation = card.hasError || card.variations.some(v => v.toLowerCase().includes('error'));
+                        matchVariation = card.hasError || cardVariant.includes('error');
                     } else if (variation === 'Shiny') {
-                        matchVariation = card.variations.some(v => v.toLowerCase().includes('shiny'));
+                        matchVariation = cardVariant.includes('shiny');
                     } else {
-                        matchVariation = card.variations.some(v => v.toLowerCase().includes(variation.toLowerCase()));
+                        matchVariation = cardVariant.includes(variation.toLowerCase());
                     }
                 }
 
@@ -656,11 +661,9 @@
             return '';
         }
 
-        function renderVariationTags(variations) {
-            if (!variations || variations.length === 0) return '';
-            return variations.map(v => 
-                `<span class="variation-tag ${getVariationTagClass(v)}">${v}</span>`
-            ).join('');
+        function renderVariationTag(variant) {
+            if (!variant) return '';
+            return `<span class="variation-tag ${getVariationTagClass(variant)}">${variant}</span>`;
         }
 
         function renderErrorInfo(errorInfo) {
@@ -742,15 +745,21 @@
                                     <span class="detail-value"><span class="badge ${getRarityClass(card.rarity)}">${card.rarity}</span></span>
                                 </div>
                                 <div class="detail-row">
-                                    <span class="detail-label">Variations</span>
+                                    <span class="detail-label">Variation</span>
                                     <span class="detail-value">
-                                        <div class="variation-tags">${renderVariationTags(card.variations)}</div>
+                                        <div class="variation-tags">${renderVariationTag(card.variant)}</div>
                                     </span>
                                 </div>
                                 ${card.artist ? `
                                 <div class="detail-row">
                                     <span class="detail-label">Artist</span>
                                     <span class="detail-value">${card.artist}</span>
+                                </div>
+                                ` : ''}
+                                ${card.sourceUrl ? `
+                                <div class="detail-row">
+                                    <span class="detail-label">Source</span>
+                                    <span class="detail-value"><a href="${card.sourceUrl}" target="_blank" rel="noopener" style="color: #667eea;">Bulbapedia</a></span>
                                 </div>
                                 ` : ''}
                             </div>
@@ -790,7 +799,7 @@
                                     <th>Language</th>
                                     <th>Year</th>
                                     <th>Rarity</th>
-                                    <th>Variations</th>
+                                    <th>Variation</th>
                                     <th>Error</th>
                                     <th>Artist</th>
                                 </tr>
@@ -805,7 +814,7 @@
                                         <td>${card.language}</td>
                                         <td>${card.year}</td>
                                         <td><span class="badge ${getRarityClass(card.rarity)}">${card.rarity}</span></td>
-                                        <td><div class="variation-tags">${renderVariationTags(card.variations)}</div></td>
+                                        <td><div class="variation-tags">${renderVariationTag(card.variant)}</div></td>
                                         <td>${card.hasError ? `<a href="${card.errorInfo?.sources[0]?.url || '#'}" target="_blank" style="color: #f59e0b;">⚠️ ${card.errorInfo?.name || 'Error'}</a>` : '-'}</td>
                                         <td>${card.artist || '-'}</td>
                                     </tr>
