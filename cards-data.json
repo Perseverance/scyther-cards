@@ -3599,6 +3599,23 @@
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
       "notes": "Latest Scyther common from Temporal Forces"
+    },
+    {
+      "name": "Scyther",
+      "cardId": "jungle_10_holo_error_nosymbol",
+      "set": "Jungle",
+      "setCode": "JU",
+      "cardNumber": "10/64",
+      "type": "Grass",
+      "rarity": "Error Print",
+      "year": 1999,
+      "language": "English",
+      "variant": "No Symbol Error",
+      "artist": "Ken Sugimori",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "japaneseExpansion": "Pokémon Jungle",
+      "japaneseCardNumber": "10/64",
+      "notes": "Major production error: Unlimited holofoil print missing the Jungle set symbol. Large print run before correction. Documented on Bulbapedia error cards page."
     }
   ]
 }
