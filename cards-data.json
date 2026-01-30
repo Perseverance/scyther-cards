@@ -12,10 +12,32 @@
       "language": "Dutch",
       "variant": "Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "First English print of Scyther. Has unlimited and limited editions."
+      "notes": "First English print of Scyther. Has unlimited and limited editions.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "name": "Scyther",
@@ -29,10 +51,32 @@
       "language": "English",
       "variant": "Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "First English print of Scyther. Has unlimited and limited editions."
+      "notes": "First English print of Scyther. Has unlimited and limited editions.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "name": "Insécateur",
@@ -46,10 +90,32 @@
       "language": "French",
       "variant": "Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "First English print of Scyther. Has unlimited and limited editions."
+      "notes": "First English print of Scyther. Has unlimited and limited editions.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "name": "Sichlor",
@@ -63,10 +129,32 @@
       "language": "German",
       "variant": "Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "First English print of Scyther. Has unlimited and limited editions."
+      "notes": "First English print of Scyther. Has unlimited and limited editions.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "name": "Scyther",
@@ -80,10 +168,32 @@
       "language": "Italian",
       "variant": "Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "First English print of Scyther. Has unlimited and limited editions."
+      "notes": "First English print of Scyther. Has unlimited and limited editions.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "name": "Scyther",
@@ -97,10 +207,32 @@
       "language": "Portuguese",
       "variant": "Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "First English print of Scyther. Has unlimited and limited editions."
+      "notes": "First English print of Scyther. Has unlimited and limited editions.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "name": "Сайтер",
@@ -114,10 +246,32 @@
       "language": "Russian",
       "variant": "Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "First English print of Scyther. Has unlimited and limited editions."
+      "notes": "First English print of Scyther. Has unlimited and limited editions.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "name": "Scyther",
@@ -131,10 +285,32 @@
       "language": "Spanish",
       "variant": "Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "First English print of Scyther. Has unlimited and limited editions."
+      "notes": "First English print of Scyther. Has unlimited and limited editions.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "name": "Scyther",
@@ -148,9 +324,13 @@
       "language": "Dutch",
       "variant": "Non-Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/26_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
-      "notes": "Non-holo version from Jungle expansion"
+      "notes": "Non-holo version from Jungle expansion",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
@@ -164,9 +344,13 @@
       "language": "English",
       "variant": "Non-Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/26_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
-      "notes": "Non-holo version from Jungle expansion"
+      "notes": "Non-holo version from Jungle expansion",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Insécateur",
@@ -180,9 +364,13 @@
       "language": "French",
       "variant": "Non-Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/26_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
-      "notes": "Non-holo version from Jungle expansion"
+      "notes": "Non-holo version from Jungle expansion",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Sichlor",
@@ -196,9 +384,13 @@
       "language": "German",
       "variant": "Non-Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/26_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
-      "notes": "Non-holo version from Jungle expansion"
+      "notes": "Non-holo version from Jungle expansion",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
@@ -212,9 +404,13 @@
       "language": "Italian",
       "variant": "Non-Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/26_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
-      "notes": "Non-holo version from Jungle expansion"
+      "notes": "Non-holo version from Jungle expansion",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
@@ -228,9 +424,13 @@
       "language": "Portuguese",
       "variant": "Non-Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/26_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
-      "notes": "Non-holo version from Jungle expansion"
+      "notes": "Non-holo version from Jungle expansion",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Сайтер",
@@ -244,9 +444,13 @@
       "language": "Russian",
       "variant": "Non-Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/26_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
-      "notes": "Non-holo version from Jungle expansion"
+      "notes": "Non-holo version from Jungle expansion",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
@@ -260,15 +464,19 @@
       "language": "Spanish",
       "variant": "Non-Holofoil",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/26_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
-      "notes": "Non-holo version from Jungle expansion"
+      "notes": "Non-holo version from Jungle expansion",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "base_set_2_17_nl",
       "set": "Base Set 2",
-      "setCode": "BS2",
+      "setCode": "B2",
       "cardNumber": "17/130",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -276,14 +484,17 @@
       "language": "Dutch",
       "variant": "Holofoil (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Reprint of Jungle Scyther with same artwork"
+      "image": "https://images.pokemontcg.io/base2/17_hires.png",
+      "notes": "Reprint of Jungle Scyther with same artwork",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "base_set_2_17",
       "set": "Base Set 2",
-      "setCode": "BS2",
+      "setCode": "B2",
       "cardNumber": "17/130",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -291,14 +502,17 @@
       "language": "English",
       "variant": "Holofoil (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Reprint of Jungle Scyther with same artwork"
+      "image": "https://images.pokemontcg.io/base2/17_hires.png",
+      "notes": "Reprint of Jungle Scyther with same artwork",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "base_set_2_17_fr",
       "set": "Base Set 2",
-      "setCode": "BS2",
+      "setCode": "B2",
       "cardNumber": "17/130",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -306,14 +520,17 @@
       "language": "French",
       "variant": "Holofoil (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Reprint of Jungle Scyther with same artwork"
+      "image": "https://images.pokemontcg.io/base2/17_hires.png",
+      "notes": "Reprint of Jungle Scyther with same artwork",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "base_set_2_17_de",
       "set": "Base Set 2",
-      "setCode": "BS2",
+      "setCode": "B2",
       "cardNumber": "17/130",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -321,14 +538,17 @@
       "language": "German",
       "variant": "Holofoil (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Reprint of Jungle Scyther with same artwork"
+      "image": "https://images.pokemontcg.io/base2/17_hires.png",
+      "notes": "Reprint of Jungle Scyther with same artwork",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "base_set_2_17_it",
       "set": "Base Set 2",
-      "setCode": "BS2",
+      "setCode": "B2",
       "cardNumber": "17/130",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -336,14 +556,17 @@
       "language": "Italian",
       "variant": "Holofoil (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Reprint of Jungle Scyther with same artwork"
+      "image": "https://images.pokemontcg.io/base2/17_hires.png",
+      "notes": "Reprint of Jungle Scyther with same artwork",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "base_set_2_17_es",
       "set": "Base Set 2",
-      "setCode": "BS2",
+      "setCode": "B2",
       "cardNumber": "17/130",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -351,14 +574,17 @@
       "language": "Spanish",
       "variant": "Holofoil (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Reprint of Jungle Scyther with same artwork"
+      "image": "https://images.pokemontcg.io/base2/17_hires.png",
+      "notes": "Reprint of Jungle Scyther with same artwork",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Rocket's Scyther",
       "cardId": "gym_heroes_13",
       "set": "Gym Heroes",
-      "setCode": "GH",
+      "setCode": "G1",
       "cardNumber": "13/132",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -366,15 +592,19 @@
       "language": "English",
       "variant": "Team Rocket Version",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/gym1/13_hires.png",
       "japaneseExpansion": "Leaders' Stadium",
-      "notes": "Special Rocket's variant with Shadow Images attack"
+      "notes": "Special Rocket's variant with Shadow Images attack",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Insécateur de Rocket",
       "cardId": "gym_heroes_13_fr",
       "set": "Gym Heroes",
-      "setCode": "GH",
+      "setCode": "G1",
       "cardNumber": "13/132",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -382,15 +612,19 @@
       "language": "French",
       "variant": "Team Rocket Version",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/gym1/13_hires.png",
       "japaneseExpansion": "Leaders' Stadium",
-      "notes": "Special Rocket's variant with Shadow Images attack"
+      "notes": "Special Rocket's variant with Shadow Images attack",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Rockets Sichlor",
       "cardId": "gym_heroes_13_de",
       "set": "Gym Heroes",
-      "setCode": "GH",
+      "setCode": "G1",
       "cardNumber": "13/132",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -398,15 +632,19 @@
       "language": "German",
       "variant": "Team Rocket Version",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/gym1/13_hires.png",
       "japaneseExpansion": "Leaders' Stadium",
-      "notes": "Special Rocket's variant with Shadow Images attack"
+      "notes": "Special Rocket's variant with Shadow Images attack",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther di Rocket",
       "cardId": "gym_heroes_13_it",
       "set": "Gym Heroes",
-      "setCode": "GH",
+      "setCode": "G1",
       "cardNumber": "13/132",
       "type": "Grass",
       "rarity": "Rare Holo",
@@ -414,23 +652,30 @@
       "language": "Italian",
       "variant": "Team Rocket Version",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/gym1/13_hires.png",
       "japaneseExpansion": "Leaders' Stadium",
-      "notes": "Special Rocket's variant with Shadow Images attack"
+      "notes": "Special Rocket's variant with Shadow Images attack",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "wizards_promo_45",
       "set": "Wizards Black Star Promos",
-      "setCode": "WB",
+      "setCode": "WP",
       "cardNumber": "45",
       "type": "Grass",
       "rarity": "Promo",
       "year": 2000,
       "language": "English",
       "variant": "Promotional",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Promo card from Wizards era"
+      "image": "https://images.pokemontcg.io/basep/45_hires.png",
+      "notes": "Promo card from Wizards era",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
@@ -443,10 +688,15 @@
       "year": 2001,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ecard2/106_hires.png",
       "japaneseExpansion": "Wind from the Sea",
       "japaneseCardNumber": "016/087",
-      "notes": "Aquapolis common version"
+      "notes": "Aquapolis common version",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -459,138 +709,175 @@
       "year": 2001,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ecard2/57_hires.png",
       "japaneseExpansion": "Wind from the Sea",
       "japaneseCardNumber": "017/087",
-      "notes": "Aquapolis uncommon"
+      "notes": "Aquapolis uncommon",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "neo_destiny_55",
       "set": "Neo Destiny",
-      "setCode": "ND",
+      "setCode": "N4",
       "cardNumber": "55/105",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2001,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/neo4/55_hires.png",
       "japaneseExpansion": "Darkness, and to Light...",
       "japaneseCardNumber": "55/105",
-      "notes": "Neo Destiny era Scyther"
+      "notes": "Neo Destiny era Scyther",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "neo_destiny_55_fr",
       "set": "Neo Destiny",
-      "setCode": "ND",
+      "setCode": "N4",
       "cardNumber": "55/105",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2001,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/neo4/55_hires.png",
       "japaneseExpansion": "Darkness, and to Light...",
       "japaneseCardNumber": "55/105",
-      "notes": "Neo Destiny era Scyther"
+      "notes": "Neo Destiny era Scyther",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "neo_destiny_55_de",
       "set": "Neo Destiny",
-      "setCode": "ND",
+      "setCode": "N4",
       "cardNumber": "55/105",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2001,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/neo4/55_hires.png",
       "japaneseExpansion": "Darkness, and to Light...",
       "japaneseCardNumber": "55/105",
-      "notes": "Neo Destiny era Scyther"
+      "notes": "Neo Destiny era Scyther",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "neo_destiny_55_it",
       "set": "Neo Destiny",
-      "setCode": "ND",
+      "setCode": "N4",
       "cardNumber": "55/105",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2001,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/neo4/55_hires.png",
       "japaneseExpansion": "Darkness, and to Light...",
       "japaneseCardNumber": "55/105",
-      "notes": "Neo Destiny era Scyther"
+      "notes": "Neo Destiny era Scyther",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "neo_discovery_46",
       "set": "Neo Discovery",
-      "setCode": "ND",
+      "setCode": "N2",
       "cardNumber": "46/75",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2001,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/neo2/46_hires.png",
       "japaneseExpansion": "Crossing the Ruins...",
       "japaneseCardNumber": "46/75",
-      "notes": "Neo era Scyther uncommon"
+      "notes": "Neo era Scyther uncommon",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "neo_discovery_46_fr",
       "set": "Neo Discovery",
-      "setCode": "ND",
+      "setCode": "N2",
       "cardNumber": "46/75",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2001,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/neo2/46_hires.png",
       "japaneseExpansion": "Crossing the Ruins...",
       "japaneseCardNumber": "46/75",
-      "notes": "Neo era Scyther uncommon"
+      "notes": "Neo era Scyther uncommon",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "neo_discovery_46_de",
       "set": "Neo Discovery",
-      "setCode": "ND",
+      "setCode": "N2",
       "cardNumber": "46/75",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2001,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/neo2/46_hires.png",
       "japaneseExpansion": "Crossing the Ruins...",
       "japaneseCardNumber": "46/75",
-      "notes": "Neo era Scyther uncommon"
+      "notes": "Neo era Scyther uncommon",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "neo_discovery_46_it",
       "set": "Neo Discovery",
-      "setCode": "ND",
+      "setCode": "N2",
       "cardNumber": "46/75",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2001,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/neo2/46_hires.png",
       "japaneseExpansion": "Crossing the Ruins...",
       "japaneseCardNumber": "46/75",
-      "notes": "Neo era Scyther uncommon"
+      "notes": "Neo era Scyther uncommon",
+      "variations": [
+        "1st Edition",
+        "Unlimited"
+      ]
     },
     {
       "name": "Scyther ex",
@@ -604,10 +891,14 @@
       "language": "English",
       "variant": "EX Variant",
       "artist": "Ryo Ueda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex1/102_hires.png",
       "japaneseExpansion": "Treecko Constructed Starter Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "First Scyther ex card, combines elements of classic Scyther designs"
+      "notes": "First Scyther ex card, combines elements of classic Scyther designs",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur ex",
@@ -621,10 +912,14 @@
       "language": "French",
       "variant": "EX Variant",
       "artist": "Ryo Ueda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex1/102_hires.png",
       "japaneseExpansion": "Treecko Constructed Starter Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "First Scyther ex card, combines elements of classic Scyther designs"
+      "notes": "First Scyther ex card, combines elements of classic Scyther designs",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor ex",
@@ -638,10 +933,14 @@
       "language": "German",
       "variant": "EX Variant",
       "artist": "Ryo Ueda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex1/102_hires.png",
       "japaneseExpansion": "Treecko Constructed Starter Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "First Scyther ex card, combines elements of classic Scyther designs"
+      "notes": "First Scyther ex card, combines elements of classic Scyther designs",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther ex",
@@ -655,10 +954,14 @@
       "language": "Italian",
       "variant": "EX Variant",
       "artist": "Ryo Ueda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex1/102_hires.png",
       "japaneseExpansion": "Treecko Constructed Starter Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "First Scyther ex card, combines elements of classic Scyther designs"
+      "notes": "First Scyther ex card, combines elements of classic Scyther designs",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ストライク ex",
@@ -672,170 +975,214 @@
       "language": "Japanese",
       "variant": "EX Variant",
       "artist": "Ryo Ueda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex1/102_hires.png",
       "japaneseExpansion": "Treecko Constructed Starter Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "First Scyther ex card, combines elements of classic Scyther designs"
+      "notes": "First Scyther ex card, combines elements of classic Scyther designs",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "ex_firered_leafgreen_29",
       "set": "EX FireRed & LeafGreen",
-      "setCode": "FR",
+      "setCode": "RG",
       "cardNumber": "29/112",
       "type": "Grass",
       "rarity": "Rare",
       "year": 2004,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex5/29_hires.png",
       "japaneseExpansion": "Flight of Legends",
       "japaneseCardNumber": "019/082",
-      "notes": "EX era Scyther"
+      "notes": "EX era Scyther",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "ex_firered_leafgreen_29_fr",
       "set": "EX FireRed & LeafGreen",
-      "setCode": "FR",
+      "setCode": "RG",
       "cardNumber": "29/112",
       "type": "Grass",
       "rarity": "Rare",
       "year": 2004,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex5/29_hires.png",
       "japaneseExpansion": "Flight of Legends",
       "japaneseCardNumber": "019/082",
-      "notes": "EX era Scyther"
+      "notes": "EX era Scyther",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "ex_firered_leafgreen_29_de",
       "set": "EX FireRed & LeafGreen",
-      "setCode": "FR",
+      "setCode": "RG",
       "cardNumber": "29/112",
       "type": "Grass",
       "rarity": "Rare",
       "year": 2004,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex5/29_hires.png",
       "japaneseExpansion": "Flight of Legends",
       "japaneseCardNumber": "019/082",
-      "notes": "EX era Scyther"
+      "notes": "EX era Scyther",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "ex_firered_leafgreen_29_it",
       "set": "EX FireRed & LeafGreen",
-      "setCode": "FR",
+      "setCode": "RG",
       "cardNumber": "29/112",
       "type": "Grass",
       "rarity": "Rare",
       "year": 2004,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex5/29_hires.png",
       "japaneseExpansion": "Flight of Legends",
       "japaneseCardNumber": "019/082",
-      "notes": "EX era Scyther"
+      "notes": "EX era Scyther",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "ex_firered_leafgreen_29_es",
       "set": "EX FireRed & LeafGreen",
-      "setCode": "FR",
+      "setCode": "RG",
       "cardNumber": "29/112",
       "type": "Grass",
       "rarity": "Rare",
       "year": 2004,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex5/29_hires.png",
       "japaneseExpansion": "Flight of Legends",
       "japaneseCardNumber": "019/082",
-      "notes": "EX era Scyther"
+      "notes": "EX era Scyther",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Rocket's Scyther ex",
       "cardId": "ex_team_rocket_returns_102",
       "set": "EX Team Rocket Returns",
-      "setCode": "TR",
+      "setCode": "TRR",
       "cardNumber": "102/109",
       "type": "Grass",
       "rarity": "Rare Holo ex",
       "year": 2004,
       "language": "English",
       "variant": "Team Rocket EX Version",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex6/102_hires.png",
       "japaneseExpansion": "Rocket Gang Strikes Back",
       "japaneseCardNumber": "061/084",
-      "notes": "Special Team Rocket variant of Scyther ex"
+      "notes": "Special Team Rocket variant of Scyther ex",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur de Rocket",
       "cardId": "ex_team_rocket_returns_102_fr",
       "set": "EX Team Rocket Returns",
-      "setCode": "TR",
+      "setCode": "TRR",
       "cardNumber": "102/109",
       "type": "Grass",
       "rarity": "Rare Holo ex",
       "year": 2004,
       "language": "French",
       "variant": "Team Rocket EX Version",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex6/102_hires.png",
       "japaneseExpansion": "Rocket Gang Strikes Back",
       "japaneseCardNumber": "061/084",
-      "notes": "Special Team Rocket variant of Scyther ex"
+      "notes": "Special Team Rocket variant of Scyther ex",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Rockets Sichlor",
       "cardId": "ex_team_rocket_returns_102_de",
       "set": "EX Team Rocket Returns",
-      "setCode": "TR",
+      "setCode": "TRR",
       "cardNumber": "102/109",
       "type": "Grass",
       "rarity": "Rare Holo ex",
       "year": 2004,
       "language": "German",
       "variant": "Team Rocket EX Version",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex6/102_hires.png",
       "japaneseExpansion": "Rocket Gang Strikes Back",
       "japaneseCardNumber": "061/084",
-      "notes": "Special Team Rocket variant of Scyther ex"
+      "notes": "Special Team Rocket variant of Scyther ex",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther di Rocket",
       "cardId": "ex_team_rocket_returns_102_it",
       "set": "EX Team Rocket Returns",
-      "setCode": "TR",
+      "setCode": "TRR",
       "cardNumber": "102/109",
       "type": "Grass",
       "rarity": "Rare Holo ex",
       "year": 2004,
       "language": "Italian",
       "variant": "Team Rocket EX Version",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex6/102_hires.png",
       "japaneseExpansion": "Rocket Gang Strikes Back",
       "japaneseCardNumber": "061/084",
-      "notes": "Special Team Rocket variant of Scyther ex"
+      "notes": "Special Team Rocket variant of Scyther ex",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ロケット団のストライク",
       "cardId": "ex_team_rocket_returns_102_ja",
       "set": "EX Team Rocket Returns",
-      "setCode": "TR",
+      "setCode": "TRR",
       "cardNumber": "102/109",
       "type": "Grass",
       "rarity": "Rare Holo ex",
       "year": 2004,
       "language": "Japanese",
       "variant": "Team Rocket EX Version",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex6/102_hires.png",
       "japaneseExpansion": "Rocket Gang Strikes Back",
       "japaneseCardNumber": "061/084",
-      "notes": "Special Team Rocket variant of Scyther ex"
+      "notes": "Special Team Rocket variant of Scyther ex",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -848,10 +1195,14 @@
       "year": 2005,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex9/46_hires.png",
       "japaneseExpansion": "Golden Sky, Silvery Ocean",
       "japaneseCardNumber": "003/106",
-      "notes": "EX Unseen Forces uncommon"
+      "notes": "EX Unseen Forces uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
@@ -864,10 +1215,14 @@
       "year": 2005,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex9/46_hires.png",
       "japaneseExpansion": "Golden Sky, Silvery Ocean",
       "japaneseCardNumber": "003/106",
-      "notes": "EX Unseen Forces uncommon"
+      "notes": "EX Unseen Forces uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
@@ -880,10 +1235,14 @@
       "year": 2005,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex9/46_hires.png",
       "japaneseExpansion": "Golden Sky, Silvery Ocean",
       "japaneseCardNumber": "003/106",
-      "notes": "EX Unseen Forces uncommon"
+      "notes": "EX Unseen Forces uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -896,10 +1255,14 @@
       "year": 2005,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex9/46_hires.png",
       "japaneseExpansion": "Golden Sky, Silvery Ocean",
       "japaneseCardNumber": "003/106",
-      "notes": "EX Unseen Forces uncommon"
+      "notes": "EX Unseen Forces uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -912,10 +1275,14 @@
       "year": 2005,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/ex9/46_hires.png",
       "japaneseExpansion": "Golden Sky, Silvery Ocean",
       "japaneseCardNumber": "003/106",
-      "notes": "EX Unseen Forces uncommon"
+      "notes": "EX Unseen Forces uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -928,9 +1295,13 @@
       "year": 2008,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp5/46_hires.png",
       "japaneseExpansion": "Moonlit Pursuit",
-      "notes": "Majestic Dawn uncommon"
+      "notes": "Majestic Dawn uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
@@ -943,9 +1314,13 @@
       "year": 2008,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp5/46_hires.png",
       "japaneseExpansion": "Moonlit Pursuit",
-      "notes": "Majestic Dawn uncommon"
+      "notes": "Majestic Dawn uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
@@ -958,9 +1333,13 @@
       "year": 2008,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp5/46_hires.png",
       "japaneseExpansion": "Moonlit Pursuit",
-      "notes": "Majestic Dawn uncommon"
+      "notes": "Majestic Dawn uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -973,9 +1352,13 @@
       "year": 2008,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp5/46_hires.png",
       "japaneseExpansion": "Moonlit Pursuit",
-      "notes": "Majestic Dawn uncommon"
+      "notes": "Majestic Dawn uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -988,9 +1371,13 @@
       "year": 2008,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp5/46_hires.png",
       "japaneseExpansion": "Moonlit Pursuit",
-      "notes": "Majestic Dawn uncommon"
+      "notes": "Majestic Dawn uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1003,9 +1390,13 @@
       "year": 2008,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp5/46_hires.png",
       "japaneseExpansion": "Moonlit Pursuit",
-      "notes": "Majestic Dawn uncommon"
+      "notes": "Majestic Dawn uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1018,10 +1409,14 @@
       "year": 2008,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp7/49_hires.png",
       "japaneseExpansion": "Intense Fight in the Destroyed Sky",
       "japaneseCardNumber": "003/092",
-      "notes": "Stormfront uncommon"
+      "notes": "Stormfront uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
@@ -1034,10 +1429,14 @@
       "year": 2008,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp7/49_hires.png",
       "japaneseExpansion": "Intense Fight in the Destroyed Sky",
       "japaneseCardNumber": "003/092",
-      "notes": "Stormfront uncommon"
+      "notes": "Stormfront uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
@@ -1050,10 +1449,14 @@
       "year": 2008,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp7/49_hires.png",
       "japaneseExpansion": "Intense Fight in the Destroyed Sky",
       "japaneseCardNumber": "003/092",
-      "notes": "Stormfront uncommon"
+      "notes": "Stormfront uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1066,10 +1469,14 @@
       "year": 2008,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp7/49_hires.png",
       "japaneseExpansion": "Intense Fight in the Destroyed Sky",
       "japaneseCardNumber": "003/092",
-      "notes": "Stormfront uncommon"
+      "notes": "Stormfront uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1082,10 +1489,14 @@
       "year": 2008,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp7/49_hires.png",
       "japaneseExpansion": "Intense Fight in the Destroyed Sky",
       "japaneseCardNumber": "003/092",
-      "notes": "Stormfront uncommon"
+      "notes": "Stormfront uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1098,10 +1509,14 @@
       "year": 2008,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/dp7/49_hires.png",
       "japaneseExpansion": "Intense Fight in the Destroyed Sky",
       "japaneseCardNumber": "003/092",
-      "notes": "Stormfront uncommon"
+      "notes": "Stormfront uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1115,10 +1530,13 @@
       "language": "English",
       "variant": "Secret Rare (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/pl1/130_hires.png",
       "japaneseExpansion": "Galactic's Conquest",
       "japaneseCardNumber": "094/096",
-      "notes": "Retro-style reprint with modern wording. Secret rare."
+      "notes": "Retro-style reprint with modern wording. Secret rare.",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Insécateur",
@@ -1132,10 +1550,13 @@
       "language": "French",
       "variant": "Secret Rare (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/pl1/130_hires.png",
       "japaneseExpansion": "Galactic's Conquest",
       "japaneseCardNumber": "094/096",
-      "notes": "Retro-style reprint with modern wording. Secret rare."
+      "notes": "Retro-style reprint with modern wording. Secret rare.",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Sichlor",
@@ -1149,10 +1570,13 @@
       "language": "German",
       "variant": "Secret Rare (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/pl1/130_hires.png",
       "japaneseExpansion": "Galactic's Conquest",
       "japaneseCardNumber": "094/096",
-      "notes": "Retro-style reprint with modern wording. Secret rare."
+      "notes": "Retro-style reprint with modern wording. Secret rare.",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
@@ -1166,10 +1590,13 @@
       "language": "Italian",
       "variant": "Secret Rare (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/pl1/130_hires.png",
       "japaneseExpansion": "Galactic's Conquest",
       "japaneseCardNumber": "094/096",
-      "notes": "Retro-style reprint with modern wording. Secret rare."
+      "notes": "Retro-style reprint with modern wording. Secret rare.",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
@@ -1183,10 +1610,13 @@
       "language": "Spanish",
       "variant": "Secret Rare (Reprint)",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/pl1/130_hires.png",
       "japaneseExpansion": "Galactic's Conquest",
       "japaneseCardNumber": "094/096",
-      "notes": "Retro-style reprint with modern wording. Secret rare."
+      "notes": "Retro-style reprint with modern wording. Secret rare.",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
@@ -1199,10 +1629,14 @@
       "year": 2010,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/36_hires.png",
       "japaneseExpansion": "Reviving Legends",
       "japaneseCardNumber": "005/080",
-      "notes": "Undaunted uncommon"
+      "notes": "Undaunted uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
@@ -1215,10 +1649,14 @@
       "year": 2010,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/36_hires.png",
       "japaneseExpansion": "Reviving Legends",
       "japaneseCardNumber": "005/080",
-      "notes": "Undaunted uncommon"
+      "notes": "Undaunted uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
@@ -1231,10 +1669,14 @@
       "year": 2010,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/36_hires.png",
       "japaneseExpansion": "Reviving Legends",
       "japaneseCardNumber": "005/080",
-      "notes": "Undaunted uncommon"
+      "notes": "Undaunted uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1247,10 +1689,14 @@
       "year": 2010,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/36_hires.png",
       "japaneseExpansion": "Reviving Legends",
       "japaneseCardNumber": "005/080",
-      "notes": "Undaunted uncommon"
+      "notes": "Undaunted uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1263,10 +1709,14 @@
       "year": 2010,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/36_hires.png",
       "japaneseExpansion": "Reviving Legends",
       "japaneseCardNumber": "005/080",
-      "notes": "Undaunted uncommon"
+      "notes": "Undaunted uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1279,10 +1729,14 @@
       "year": 2010,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/36_hires.png",
       "japaneseExpansion": "Reviving Legends",
       "japaneseCardNumber": "005/080",
-      "notes": "Undaunted uncommon"
+      "notes": "Undaunted uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1295,10 +1749,14 @@
       "year": 2010,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/65_hires.png",
       "japaneseExpansion": "Steelix Constructed Standard Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "Undaunted common version"
+      "notes": "Undaunted common version",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
@@ -1311,10 +1769,14 @@
       "year": 2010,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/65_hires.png",
       "japaneseExpansion": "Steelix Constructed Standard Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "Undaunted common version"
+      "notes": "Undaunted common version",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
@@ -1327,10 +1789,14 @@
       "year": 2010,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/65_hires.png",
       "japaneseExpansion": "Steelix Constructed Standard Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "Undaunted common version"
+      "notes": "Undaunted common version",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1343,10 +1809,14 @@
       "year": 2010,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/65_hires.png",
       "japaneseExpansion": "Steelix Constructed Standard Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "Undaunted common version"
+      "notes": "Undaunted common version",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1359,10 +1829,14 @@
       "year": 2010,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/65_hires.png",
       "japaneseExpansion": "Steelix Constructed Standard Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "Undaunted common version"
+      "notes": "Undaunted common version",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1375,202 +1849,254 @@
       "year": 2010,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/hgss3/65_hires.png",
       "japaneseExpansion": "Steelix Constructed Standard Deck",
       "japaneseCardNumber": "001/019",
-      "notes": "Undaunted common version"
+      "notes": "Undaunted common version",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "boundaries_crossed_7",
       "set": "Boundaries Crossed",
-      "setCode": "BC",
+      "setCode": "BCR",
       "cardNumber": "7/149",
       "type": "Grass",
       "rarity": "Common",
       "year": 2012,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw7/7_hires.png",
       "japaneseExpansion": "Cold Flare",
       "japaneseCardNumber": "003/059",
-      "notes": "Boundaries Crossed common"
+      "notes": "Boundaries Crossed common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "boundaries_crossed_7_fr",
       "set": "Boundaries Crossed",
-      "setCode": "BC",
+      "setCode": "BCR",
       "cardNumber": "7/149",
       "type": "Grass",
       "rarity": "Common",
       "year": 2012,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw7/7_hires.png",
       "japaneseExpansion": "Cold Flare",
       "japaneseCardNumber": "003/059",
-      "notes": "Boundaries Crossed common"
+      "notes": "Boundaries Crossed common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "boundaries_crossed_7_de",
       "set": "Boundaries Crossed",
-      "setCode": "BC",
+      "setCode": "BCR",
       "cardNumber": "7/149",
       "type": "Grass",
       "rarity": "Common",
       "year": 2012,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw7/7_hires.png",
       "japaneseExpansion": "Cold Flare",
       "japaneseCardNumber": "003/059",
-      "notes": "Boundaries Crossed common"
+      "notes": "Boundaries Crossed common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "boundaries_crossed_7_it",
       "set": "Boundaries Crossed",
-      "setCode": "BC",
+      "setCode": "BCR",
       "cardNumber": "7/149",
       "type": "Grass",
       "rarity": "Common",
       "year": 2012,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw7/7_hires.png",
       "japaneseExpansion": "Cold Flare",
       "japaneseCardNumber": "003/059",
-      "notes": "Boundaries Crossed common"
+      "notes": "Boundaries Crossed common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "boundaries_crossed_7_pt",
       "set": "Boundaries Crossed",
-      "setCode": "BC",
+      "setCode": "BCR",
       "cardNumber": "7/149",
       "type": "Grass",
       "rarity": "Common",
       "year": 2012,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw7/7_hires.png",
       "japaneseExpansion": "Cold Flare",
       "japaneseCardNumber": "003/059",
-      "notes": "Boundaries Crossed common"
+      "notes": "Boundaries Crossed common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "boundaries_crossed_7_es",
       "set": "Boundaries Crossed",
-      "setCode": "BC",
+      "setCode": "BCR",
       "cardNumber": "7/149",
       "type": "Grass",
       "rarity": "Common",
       "year": 2012,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw7/7_hires.png",
       "japaneseExpansion": "Cold Flare",
       "japaneseCardNumber": "003/059",
-      "notes": "Boundaries Crossed common"
+      "notes": "Boundaries Crossed common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "dark_explorers_4",
       "set": "Dark Explorers",
-      "setCode": "DE",
+      "setCode": "DEX",
       "cardNumber": "4/108",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2012,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw5/4_hires.png",
       "japaneseExpansion": "Zekrom-EX Battle Strength Deck",
       "japaneseCardNumber": "001/018",
-      "notes": "Dark Explorers uncommon"
+      "notes": "Dark Explorers uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "dark_explorers_4_fr",
       "set": "Dark Explorers",
-      "setCode": "DE",
+      "setCode": "DEX",
       "cardNumber": "4/108",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2012,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw5/4_hires.png",
       "japaneseExpansion": "Zekrom-EX Battle Strength Deck",
       "japaneseCardNumber": "001/018",
-      "notes": "Dark Explorers uncommon"
+      "notes": "Dark Explorers uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "dark_explorers_4_de",
       "set": "Dark Explorers",
-      "setCode": "DE",
+      "setCode": "DEX",
       "cardNumber": "4/108",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2012,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw5/4_hires.png",
       "japaneseExpansion": "Zekrom-EX Battle Strength Deck",
       "japaneseCardNumber": "001/018",
-      "notes": "Dark Explorers uncommon"
+      "notes": "Dark Explorers uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "dark_explorers_4_it",
       "set": "Dark Explorers",
-      "setCode": "DE",
+      "setCode": "DEX",
       "cardNumber": "4/108",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2012,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw5/4_hires.png",
       "japaneseExpansion": "Zekrom-EX Battle Strength Deck",
       "japaneseCardNumber": "001/018",
-      "notes": "Dark Explorers uncommon"
+      "notes": "Dark Explorers uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "dark_explorers_4_pt",
       "set": "Dark Explorers",
-      "setCode": "DE",
+      "setCode": "DEX",
       "cardNumber": "4/108",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2012,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw5/4_hires.png",
       "japaneseExpansion": "Zekrom-EX Battle Strength Deck",
       "japaneseCardNumber": "001/018",
-      "notes": "Dark Explorers uncommon"
+      "notes": "Dark Explorers uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "dark_explorers_4_es",
       "set": "Dark Explorers",
-      "setCode": "DE",
+      "setCode": "DEX",
       "cardNumber": "4/108",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2012,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/bw5/4_hires.png",
       "japaneseExpansion": "Zekrom-EX Battle Strength Deck",
       "japaneseCardNumber": "001/018",
-      "notes": "Dark Explorers uncommon"
+      "notes": "Dark Explorers uncommon",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1583,10 +2109,14 @@
       "year": 2018,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm7/4_hires.png",
       "japaneseExpansion": "Champion Road",
       "japaneseCardNumber": "004/066",
-      "notes": "Modern era Scyther from Celestial Storm"
+      "notes": "Modern era Scyther from Celestial Storm",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
@@ -1599,10 +2129,14 @@
       "year": 2018,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm7/4_hires.png",
       "japaneseExpansion": "Champion Road",
       "japaneseCardNumber": "004/066",
-      "notes": "Modern era Scyther from Celestial Storm"
+      "notes": "Modern era Scyther from Celestial Storm",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
@@ -1615,10 +2149,14 @@
       "year": 2018,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm7/4_hires.png",
       "japaneseExpansion": "Champion Road",
       "japaneseCardNumber": "004/066",
-      "notes": "Modern era Scyther from Celestial Storm"
+      "notes": "Modern era Scyther from Celestial Storm",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1631,10 +2169,14 @@
       "year": 2018,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm7/4_hires.png",
       "japaneseExpansion": "Champion Road",
       "japaneseCardNumber": "004/066",
-      "notes": "Modern era Scyther from Celestial Storm"
+      "notes": "Modern era Scyther from Celestial Storm",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "스라크",
@@ -1647,10 +2189,14 @@
       "year": 2018,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm7/4_hires.png",
       "japaneseExpansion": "Champion Road",
       "japaneseCardNumber": "004/066",
-      "notes": "Modern era Scyther from Celestial Storm"
+      "notes": "Modern era Scyther from Celestial Storm",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1663,10 +2209,14 @@
       "year": 2018,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm7/4_hires.png",
       "japaneseExpansion": "Champion Road",
       "japaneseCardNumber": "004/066",
-      "notes": "Modern era Scyther from Celestial Storm"
+      "notes": "Modern era Scyther from Celestial Storm",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -1679,1034 +2229,1274 @@
       "year": 2018,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm7/4_hires.png",
       "japaneseExpansion": "Champion Road",
       "japaneseCardNumber": "004/066",
-      "notes": "Modern era Scyther from Celestial Storm"
+      "notes": "Modern era Scyther from Celestial Storm",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飞天螳螂",
       "cardId": "lost_thunder_3_zh-CN",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "Chinese Simplified",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "lost_thunder_3_zh-TW",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "lost_thunder_3",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "lost_thunder_3_fr",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "lost_thunder_3_de",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "lost_thunder_3_id",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "lost_thunder_3_it",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "lost_thunder_3_ko",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "lost_thunder_3_pt",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "lost_thunder_3_es",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "lost_thunder_3_th",
       "set": "Lost Thunder",
-      "setCode": "LT",
+      "setCode": "LOT",
       "cardNumber": "3/214",
       "type": "Grass",
       "rarity": "Common",
       "year": 2018,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm8/3_hires.png",
       "japaneseExpansion": "Super-Burst Impact",
       "japaneseCardNumber": "001/095",
-      "notes": "Lost Thunder common"
+      "notes": "Lost Thunder common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "hidden_fates_5_zh-TW",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_5",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "hidden_fates_5_fr",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "hidden_fates_5_de",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_5_id",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_5_it",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "hidden_fates_5_ko",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_5_pt",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_5_es",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "hidden_fates_5_th",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "5/68",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2019,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/5_hires.png",
       "japaneseExpansion": "Sun & Moon Family Pokémon Card Game",
       "japaneseCardNumber": "004/051",
-      "notes": "Hidden Fates uncommon"
+      "notes": "Hidden Fates uncommon",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "hidden_fates_sv1_shiny_zh-TW",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "Chinese Traditional",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_sv1_shiny",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "English",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "hidden_fates_sv1_shiny_fr",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "French",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "hidden_fates_sv1_shiny_de",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "German",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_sv1_shiny_id",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "Indonesian",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_sv1_shiny_it",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "Italian",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "hidden_fates_sv1_shiny_ko",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "Korean",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_sv1_shiny_pt",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "Portuguese",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "hidden_fates_sv1_shiny_es",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "Spanish",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "hidden_fates_sv1_shiny_th",
       "set": "Hidden Fates",
-      "setCode": "HF",
+      "setCode": "HIF",
       "cardNumber": "SV1/SV94",
       "type": "Grass",
       "rarity": "Rare Shiny",
       "year": 2019,
       "language": "Thai",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
       "japaneseExpansion": "GX Ultra Shiny",
       "japaneseCardNumber": "161/150",
-      "notes": "Shiny variant of Scyther - secret rare"
+      "notes": "Shiny variant of Scyther - secret rare",
+      "variations": [
+        "Shiny"
+      ]
     },
     {
       "name": "飞天螳螂",
       "cardId": "rebel_clash_4_zh-CN",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "Chinese Simplified",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "rebel_clash_4_zh-TW",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "rebel_clash_4",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "rebel_clash_4_fr",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "rebel_clash_4_de",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "rebel_clash_4_id",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "rebel_clash_4_it",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "rebel_clash_4_ko",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "rebel_clash_4_pt",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "rebel_clash_4_es",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "rebel_clash_4_th",
       "set": "Rebel Clash",
-      "setCode": "RC",
+      "setCode": "RCL",
       "cardNumber": "004/192",
       "type": "Grass",
       "rarity": "Common",
       "year": 2020,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh2/4_hires.png",
       "japaneseExpansion": "Rebellion Crash",
       "japaneseCardNumber": "001/096",
-      "notes": "Rebel Clash common"
+      "notes": "Rebel Clash common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飞天螳螂",
       "cardId": "astral_radiance_4_zh-CN",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Chinese Simplified",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "astral_radiance_4_zh-TW",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_4",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "astral_radiance_4_fr",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "astral_radiance_4_de",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_4_id",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_4_it",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "astral_radiance_4_ko",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_4_pt",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_4_es",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "astral_radiance_4_th",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "004/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/4_hires.png",
       "japaneseExpansion": "Lucario VSTAR Starter Set",
       "japaneseCardNumber": "001/021",
-      "notes": "Astral Radiance common"
+      "notes": "Astral Radiance common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飞天螳螂",
       "cardId": "astral_radiance_5_zh-CN",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Chinese Simplified",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "astral_radiance_5_zh-TW",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_5",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "astral_radiance_5_fr",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "astral_radiance_5_de",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_5_id",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_5_it",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "astral_radiance_5_ko",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_5_pt",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "astral_radiance_5_es",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "astral_radiance_5_th",
       "set": "Astral Radiance",
-      "setCode": "AR",
+      "setCode": "ASR",
       "cardNumber": "005/189",
       "type": "Grass",
       "rarity": "Common",
       "year": 2022,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh10/5_hires.png",
       "japaneseExpansion": "Battle Region",
       "japaneseCardNumber": "004/067",
-      "notes": "Astral Radiance alternate common"
+      "notes": "Astral Radiance alternate common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飛天螳螂",
@@ -2719,10 +3509,14 @@
       "year": 2022,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -2735,10 +3529,14 @@
       "year": 2022,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
@@ -2751,10 +3549,14 @@
       "year": 2022,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
@@ -2767,10 +3569,14 @@
       "year": 2022,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -2783,10 +3589,14 @@
       "year": 2022,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -2799,10 +3609,14 @@
       "year": 2022,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "스라크",
@@ -2815,10 +3629,14 @@
       "year": 2022,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -2831,10 +3649,14 @@
       "year": 2022,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -2847,10 +3669,14 @@
       "year": 2022,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ไซเธอร์",
@@ -2863,186 +3689,256 @@
       "year": 2022,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/6_hires.png",
       "japaneseExpansion": "Incandescent Arcana",
       "japaneseCardNumber": "001/068",
-      "notes": "Crown Zenith common"
+      "notes": "Crown Zenith common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飞天螳螂",
       "cardId": "151_123_zh-CN",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "Chinese Simplified",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "151_123_zh-TW",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "151_123",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "151_123_fr",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "151_123_de",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "151_123_id",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "151_123_it",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "151_123_ko",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "151_123_pt",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "151_123_es",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "151_123_th",
       "set": "151",
-      "setCode": "151",
+      "setCode": "MEW",
       "cardNumber": "123/165",
       "type": "Grass",
       "rarity": "Uncommon",
       "year": 2023,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/123_hires.png",
       "japaneseExpansion": "Pokémon Card 151",
       "japaneseCardNumber": "123/165",
-      "notes": "From the 151 set celebrating Gen 1 Pokémon"
+      "notes": "From the 151 set celebrating Gen 1 Pokémon",
+      "variations": [
+        "Standard",
+        "Reverse Holo",
+        "Illustration Rare",
+        "Special Art Rare"
+      ]
     },
     {
       "name": "Scyther",
@@ -3056,189 +3952,236 @@
       "language": "English",
       "variant": "Starter Set",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Beginner-friendly My First Battle set"
+      "notes": "Beginner-friendly My First Battle set",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "飞天螳螂",
       "cardId": "obsidian_flames_4_zh-CN",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "Chinese Simplified",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "obsidian_flames_4_zh-TW",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "obsidian_flames_4",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "obsidian_flames_4_fr",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "obsidian_flames_4_de",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "obsidian_flames_4_id",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "obsidian_flames_4_it",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "obsidian_flames_4_ko",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "obsidian_flames_4_pt",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "obsidian_flames_4_es",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "obsidian_flames_4_th",
       "set": "Obsidian Flames",
-      "setCode": "OF",
+      "setCode": "OBF",
       "cardNumber": "004/197",
       "type": "Grass",
       "rarity": "Common",
       "year": 2023,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv3/4_hires.png",
       "japaneseExpansion": "Ruler of the Black Flame",
       "japaneseCardNumber": "004/108",
-      "notes": "Obsidian Flames common"
+      "notes": "Obsidian Flames common",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "start_deck_100_battle_collection",
       "set": "Start Deck 100 Battle Collection",
-      "setCode": "SD100",
+      "setCode": "S100",
       "cardNumber": "015/742",
       "type": "Grass",
       "rarity": "Common",
@@ -3246,173 +4189,206 @@
       "language": "Japanese",
       "variant": "Standard",
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "notes": "Japanese Start Deck 100 version"
+      "notes": "Japanese Start Deck 100 version",
+      "variations": [
+        "Standard"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "paldean_fates_095_shiny_zh-TW",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "Chinese Traditional",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "paldean_fates_095_shiny",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "English",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "paldean_fates_095_shiny_fr",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "French",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "paldean_fates_095_shiny_de",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "German",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "paldean_fates_095_shiny_id",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "Indonesian",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "paldean_fates_095_shiny_it",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "Italian",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "paldean_fates_095_shiny_ko",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "Korean",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "paldean_fates_095_shiny_pt",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "Portuguese",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "paldean_fates_095_shiny_es",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "Spanish",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "paldean_fates_095_shiny_th",
       "set": "Paldean Fates",
-      "setCode": "PF",
+      "setCode": "PAF",
       "cardNumber": "095/091",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "year": 2024,
       "language": "Thai",
       "variant": "Shiny Rare",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/95_hires.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "004/190",
-      "notes": "Paldean Fates shiny variant"
+      "notes": "Paldean Fates shiny variant",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "shiny_treasure_ex_194",
       "set": "Shiny Treasure ex",
-      "setCode": "STE",
+      "setCode": "SV4a",
       "cardNumber": "194/190",
       "type": "Grass",
       "rarity": "Shiny Rare",
@@ -3422,183 +4398,230 @@
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
       "japaneseExpansion": "Shiny Treasure ex",
       "japaneseCardNumber": "194/190",
-      "notes": "Secret rare shiny from Shiny Treasure ex"
+      "notes": "Secret rare shiny from Shiny Treasure ex",
+      "variations": [
+        "Shiny Rare"
+      ]
     },
     {
       "name": "飞天螳螂",
       "cardId": "temporal_forces_1_zh-CN",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "Chinese Simplified",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "飛天螳螂",
       "cardId": "temporal_forces_1_zh-TW",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "Chinese Traditional",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "temporal_forces_1",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "English",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Insécateur",
       "cardId": "temporal_forces_1_fr",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "French",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Sichlor",
       "cardId": "temporal_forces_1_de",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "German",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "temporal_forces_1_id",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "Indonesian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "temporal_forces_1_it",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "Italian",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "스라크",
       "cardId": "temporal_forces_1_ko",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "Korean",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "temporal_forces_1_pt",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "Portuguese",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
       "cardId": "temporal_forces_1_es",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "Spanish",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "ไซเธอร์",
       "cardId": "temporal_forces_1_th",
       "set": "Temporal Forces",
-      "setCode": "TF",
+      "setCode": "TEF",
       "cardNumber": "001/162",
       "type": "Grass",
       "rarity": "Common",
       "year": 2024,
       "language": "Thai",
       "variant": "Standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/sv5/1_hires.png",
       "japaneseExpansion": "Cyber Judge",
       "japaneseCardNumber": "001/071",
-      "notes": "Latest Scyther common from Temporal Forces"
+      "notes": "Latest Scyther common from Temporal Forces",
+      "variations": [
+        "Standard",
+        "Reverse Holo"
+      ]
     },
     {
       "name": "Scyther",
@@ -3612,10 +4635,32 @@
       "language": "English",
       "variant": "No Symbol Error",
       "artist": "Ken Sugimori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
       "japaneseExpansion": "Pokémon Jungle",
       "japaneseCardNumber": "10/64",
-      "notes": "Major production error: Unlimited holofoil print missing the Jungle set symbol. Large print run before correction. Documented on Bulbapedia error cards page."
+      "notes": "Major production error: Unlimited holofoil print missing the Jungle set symbol. Large print run before correction. Documented on Bulbapedia error cards page.",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "cardId": "jungle_10_holo_bleed",
@@ -3628,7 +4673,31 @@
       "language": "English",
       "variant": "Holo Bleed",
       "artist": "Ken Sugimori",
-      "notes": "Holographic pattern extends beyond foil area into borders/text. Value: $30-$910 based on severity."
+      "notes": "Holographic pattern extends beyond foil area into borders/text. Value: $30-$910 based on severity.",
+      "setCode": "JU",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "cardId": "jungle_10_base2_logo_error",
@@ -3641,7 +4710,31 @@
       "language": "English",
       "variant": "Base Set 2 Logo Error",
       "artist": "Ken Sugimori",
-      "notes": "EXTREMELY RARE - Jungle layout with Base Set 2 pokéball logo. Possibly 1-of-1 specimen."
+      "notes": "EXTREMELY RARE - Jungle layout with Base Set 2 pokéball logo. Possibly 1-of-1 specimen.",
+      "setCode": "JU",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "cardId": "jungle_10_registration_shift",
@@ -3654,7 +4747,31 @@
       "language": "English",
       "variant": "Registration Shift",
       "artist": "Ken Sugimori",
-      "notes": "Color layers misaligned - black/magenta offset in wings, displaced symbols, energy symbol yellow bleed."
+      "notes": "Color layers misaligned - black/magenta offset in wings, displaced symbols, energy symbol yellow bleed.",
+      "setCode": "JU",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "cardId": "jungle_10_crimped",
@@ -3667,7 +4784,31 @@
       "language": "English",
       "variant": "Crimped Card",
       "artist": "Ken Sugimori",
-      "notes": "Pack seal crimp damage through card edge from production."
+      "notes": "Pack seal crimp damage through card edge from production.",
+      "setCode": "JU",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "cardId": "jungle_10_ink_error",
@@ -3680,7 +4821,31 @@
       "language": "English",
       "variant": "Ink Stains/Hickeys",
       "artist": "Ken Sugimori",
-      "notes": "Printing ink errors, stains, or smears from production process."
+      "notes": "Printing ink errors, stains, or smears from production process.",
+      "setCode": "JU",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "cardId": "jungle_10_yellow_shift",
@@ -3693,7 +4858,31 @@
       "language": "English",
       "variant": "Yellow Border Shift",
       "artist": "Ken Sugimori",
-      "notes": "Noticeably darker or lighter yellow border from color variance in printing."
+      "notes": "Noticeably darker or lighter yellow border from color variance in printing.",
+      "setCode": "JU",
+      "image": "https://images.pokemontcg.io/jungle/10_hires.png",
+      "variations": [
+        "1st Edition",
+        "Unlimited",
+        "No Symbol Error (Unlimited)"
+      ],
+      "hasError": true,
+      "errorInfo": {
+        "name": "No Symbol Error",
+        "description": "Early Unlimited prints were printed without the Jungle set symbol. This was corrected later in the print run.",
+        "sources": [
+          {
+            "name": "Bulbapedia - Scyther (Jungle 10)",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Scyther_(Jungle_10)",
+            "type": "official"
+          },
+          {
+            "name": "Bulbapedia - Error Cards",
+            "url": "https://bulbapedia.bulbagarden.net/wiki/Error_cards#Jungle",
+            "type": "official"
+          }
+        ]
+      }
     },
     {
       "cardId": "hidden_fates_sv1_reverse_displacement",
@@ -3706,7 +4895,22 @@
       "language": "English",
       "variant": "Reverse Holo Displacement",
       "artist": "Mitsuhiro Arita",
-      "notes": "Reverse holo pattern misaligned or in wrong position on card."
+      "notes": "Reverse holo pattern misaligned or in wrong position on card.",
+      "setCode": "HIF",
+      "image": "https://images.pokemontcg.io/sm115/SV1_hires.png",
+      "variations": [
+        "Shiny"
+      ]
     }
-  ]
+  ],
+  "metadata": {
+    "enhancedAt": "2026-01-30T18:43:45.116Z",
+    "version": "2.0.0",
+    "features": [
+      "Official Bulbapedia set codes",
+      "Card-specific images from pokemontcg.io",
+      "Variation tracking (1st Edition, Unlimited, Reverse Holo, etc.)",
+      "Error card documentation with source links"
+    ]
+  }
 }

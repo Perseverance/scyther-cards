@@ -20,7 +20,7 @@
         }
 
         .container {
-            max-width: 1400px;
+            max-width: 1600px;
             margin: 0 auto;
         }
 
@@ -42,7 +42,7 @@
 
         .stats {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
             gap: 15px;
             margin-top: 20px;
         }
@@ -56,12 +56,12 @@
         }
 
         .stat-number {
-            font-size: 2em;
+            font-size: 1.8em;
             font-weight: bold;
         }
 
         .stat-label {
-            font-size: 0.9em;
+            font-size: 0.85em;
             opacity: 0.9;
         }
 
@@ -86,13 +86,14 @@
         label {
             font-weight: 600;
             color: #667eea;
+            font-size: 0.9em;
         }
 
         select, input {
             padding: 10px 15px;
             border: 2px solid #667eea;
             border-radius: 6px;
-            font-size: 1em;
+            font-size: 0.95em;
             cursor: pointer;
             transition: all 0.3s ease;
         }
@@ -146,6 +147,7 @@
             display: flex;
             align-items: center;
             gap: 10px;
+            flex-wrap: wrap;
         }
 
         .year-badge {
@@ -159,7 +161,7 @@
 
         .cards-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
             gap: 20px;
         }
 
@@ -178,20 +180,37 @@
             border-color: #667eea;
         }
 
+        .card.has-error {
+            border-color: #f59e0b;
+        }
+
         .card-image {
             width: 100%;
-            height: 200px;
+            height: 220px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             display: flex;
             align-items: center;
             justify-content: center;
             overflow: hidden;
+            position: relative;
         }
 
         .card-image img {
             height: 100%;
             width: auto;
             object-fit: contain;
+        }
+
+        .error-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #f59e0b;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.75em;
+            font-weight: bold;
         }
 
         .card-content {
@@ -215,7 +234,7 @@
         .detail-row {
             display: flex;
             justify-content: space-between;
-            align-items: center;
+            align-items: flex-start;
             padding: 8px 0;
             border-bottom: 1px solid rgba(102, 126, 234, 0.1);
         }
@@ -227,6 +246,7 @@
         .detail-label {
             font-weight: 600;
             color: #667eea;
+            flex-shrink: 0;
         }
 
         .detail-value {
@@ -252,13 +272,74 @@
         .rarity-promo { background: #a7f3d0; color: #065f46; }
         .rarity-error { background: #fef3c7; color: #92400e; border: 2px solid #f59e0b; }
 
-        .variant-badge {
+        .variation-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            justify-content: flex-end;
+        }
+
+        .variation-tag {
             background: #e0e7ff;
             color: #3730a3;
             padding: 3px 8px;
             border-radius: 4px;
+            font-size: 0.75em;
+            white-space: nowrap;
+        }
+
+        .variation-tag.first-edition {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        .variation-tag.reverse-holo {
+            background: #ddd6fe;
+            color: #5b21b6;
+        }
+
+        .variation-tag.error {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .variation-tag.shiny {
+            background: linear-gradient(135deg, #c7d2fe, #ddd6fe, #fbcfe8);
+            color: #312e81;
+        }
+
+        .error-info {
+            margin-top: 10px;
+            padding: 10px;
+            background: #fef3c7;
+            border-radius: 6px;
+            border-left: 3px solid #f59e0b;
+        }
+
+        .error-info-title {
+            font-weight: bold;
+            color: #92400e;
+            margin-bottom: 5px;
+            font-size: 0.9em;
+        }
+
+        .error-info-desc {
             font-size: 0.8em;
-            margin-left: 5px;
+            color: #78350f;
+            margin-bottom: 8px;
+        }
+
+        .error-sources {
+            font-size: 0.75em;
+        }
+
+        .error-sources a {
+            color: #d97706;
+            text-decoration: none;
+        }
+
+        .error-sources a:hover {
+            text-decoration: underline;
         }
 
         .table-view {
@@ -273,6 +354,7 @@
         table {
             width: 100%;
             border-collapse: collapse;
+            font-size: 0.9em;
         }
 
         thead {
@@ -281,21 +363,22 @@
         }
 
         th, td {
-            padding: 12px;
+            padding: 10px 8px;
             text-align: left;
             border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        th {
+            font-size: 0.85em;
+            white-space: nowrap;
         }
 
         tbody tr:hover {
             background: rgba(102, 126, 234, 0.05);
         }
 
-        .grid-view {
-            display: grid;
-        }
-
-        .grid-view.hidden {
-            display: none;
+        tbody tr.has-error {
+            background: rgba(245, 158, 11, 0.1);
         }
 
         .no-results {
@@ -326,6 +409,10 @@
             font-size: 0.9em;
         }
 
+        .footer a {
+            color: #a5b4fc;
+        }
+
         @media (max-width: 768px) {
             h1 {
                 font-size: 1.8em;
@@ -345,17 +432,12 @@
             }
 
             table {
-                font-size: 0.9em;
+                font-size: 0.8em;
             }
 
             th, td {
-                padding: 8px;
+                padding: 6px 4px;
             }
-        }
-
-        .highlighted {
-            background: rgba(102, 126, 234, 0.1) !important;
-            border-color: #667eea !important;
         }
     </style>
 </head>
@@ -380,6 +462,14 @@
                 <div class="stat-box">
                     <div class="stat-number" id="yearSpan">0</div>
                     <div class="stat-label">Years Span</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number" id="totalVariations">0</div>
+                    <div class="stat-label">Variation Types</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number" id="totalErrors">0</div>
+                    <div class="stat-label">Error Cards</div>
                 </div>
             </div>
         </header>
@@ -416,6 +506,17 @@
                 </select>
             </div>
             <div class="control-group">
+                <label for="variationFilter">Variation:</label>
+                <select id="variationFilter">
+                    <option value="">All Variations</option>
+                    <option value="1st Edition">1st Edition</option>
+                    <option value="Unlimited">Unlimited</option>
+                    <option value="Reverse Holo">Reverse Holo</option>
+                    <option value="Shiny">Shiny</option>
+                    <option value="Error">Error Cards</option>
+                </select>
+            </div>
+            <div class="control-group">
                 <label for="rarityFilter">Rarity:</label>
                 <select id="rarityFilter">
                     <option value="">All Rarities</option>
@@ -425,8 +526,6 @@
                     <option value="Holo">Holographic</option>
                     <option value="Secret">Secret Rare</option>
                     <option value="Shiny">Shiny Rare</option>
-                    <option value="Error Print">Error Print</option>
-                    <option value="Misprint">Misprint</option>
                 </select>
             </div>
             <div class="view-toggle">
@@ -438,7 +537,8 @@
         <div id="cardsContainer"></div>
 
         <div class="footer">
-            <p>Data sourced from Bulbapedia - The Community-Driven Pokémon Encyclopedia</p>
+            <p>Data sourced from <a href="https://bulbapedia.bulbagarden.net/" target="_blank">Bulbapedia</a> - The Community-Driven Pokémon Encyclopedia</p>
+            <p>Card images from <a href="https://pokemontcg.io/" target="_blank">Pokémon TCG API</a></p>
             <p>Last updated: January 2026 | Contains all official English and Japanese releases</p>
         </div>
     </div>
@@ -479,6 +579,19 @@
             const minYear = Math.min(...years);
             const maxYear = Math.max(...years);
             document.getElementById('yearSpan').textContent = `${maxYear - minYear + 1}`;
+            
+            // Count unique variations
+            const allVariations = new Set();
+            allCards.forEach(c => {
+                if (c.variations) {
+                    c.variations.forEach(v => allVariations.add(v));
+                }
+            });
+            document.getElementById('totalVariations').textContent = allVariations.size;
+            
+            // Count error cards
+            const errorCards = allCards.filter(c => c.hasError).length;
+            document.getElementById('totalErrors').textContent = errorCards;
         }
 
         function filterCards() {
@@ -486,26 +599,38 @@
             const language = document.getElementById('languageFilter').value;
             const year = document.getElementById('yearFilter').value;
             const rarity = document.getElementById('rarityFilter').value;
+            const variation = document.getElementById('variationFilter').value;
 
             filteredCards = allCards.filter(card => {
                 const matchSearch = search === '' || 
                     card.name.toLowerCase().includes(search) ||
                     card.set.toLowerCase().includes(search) ||
-                    card.cardNumber.includes(search);
+                    card.cardNumber.includes(search) ||
+                    (card.setCode && card.setCode.toLowerCase().includes(search));
                 
                 const matchLanguage = language === '' || card.language === language;
                 const matchYear = year === '' || card.year.toString() === year;
+                
                 const matchRarity = rarity === '' || 
                     (rarity === 'Common' && card.rarity.includes('Common')) ||
                     (rarity === 'Uncommon' && card.rarity.includes('Uncommon')) ||
                     (rarity === 'Rare' && card.rarity.includes('Rare') && !card.rarity.includes('Shiny')) ||
                     (rarity === 'Holo' && card.rarity.includes('Holo')) ||
                     (rarity === 'Secret' && card.rarity.includes('Secret')) ||
-                    (rarity === 'Shiny' && card.rarity.includes('Shiny')) ||
-                    (rarity === 'Error Print' && card.rarity.includes('Error')) ||
-                    (rarity === 'Misprint' && card.rarity.includes('Misprint'));
+                    (rarity === 'Shiny' && card.rarity.includes('Shiny'));
 
-                return matchSearch && matchLanguage && matchYear && matchRarity;
+                let matchVariation = variation === '';
+                if (!matchVariation && card.variations) {
+                    if (variation === 'Error') {
+                        matchVariation = card.hasError || card.variations.some(v => v.toLowerCase().includes('error'));
+                    } else if (variation === 'Shiny') {
+                        matchVariation = card.variations.some(v => v.toLowerCase().includes('shiny'));
+                    } else {
+                        matchVariation = card.variations.some(v => v.toLowerCase().includes(variation.toLowerCase()));
+                    }
+                }
+
+                return matchSearch && matchLanguage && matchYear && matchRarity && matchVariation;
             });
 
             renderCards();
@@ -520,6 +645,37 @@
             if (rarity.includes('Rare')) return 'rarity-rare';
             if (rarity.includes('Promo')) return 'rarity-promo';
             return 'rarity-common';
+        }
+
+        function getVariationTagClass(variation) {
+            const v = variation.toLowerCase();
+            if (v.includes('1st edition')) return 'first-edition';
+            if (v.includes('reverse') || v.includes('holo')) return 'reverse-holo';
+            if (v.includes('error')) return 'error';
+            if (v.includes('shiny')) return 'shiny';
+            return '';
+        }
+
+        function renderVariationTags(variations) {
+            if (!variations || variations.length === 0) return '';
+            return variations.map(v => 
+                `<span class="variation-tag ${getVariationTagClass(v)}">${v}</span>`
+            ).join('');
+        }
+
+        function renderErrorInfo(errorInfo) {
+            if (!errorInfo) return '';
+            const sourcesHtml = errorInfo.sources.map(s => 
+                `<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`
+            ).join(' | ');
+            
+            return `
+                <div class="error-info">
+                    <div class="error-info-title">⚠️ ${errorInfo.name}</div>
+                    <div class="error-info-desc">${errorInfo.description}</div>
+                    <div class="error-sources">Sources: ${sourcesHtml}</div>
+                </div>
+            `;
         }
 
         function groupByLanguageAndYear(cards) {
@@ -565,8 +721,9 @@
 
             container.innerHTML = grouped.map(group => {
                 const cardsHTML = group.cards.map(card => `
-                    <div class="card">
+                    <div class="card ${card.hasError ? 'has-error' : ''}">
                         <div class="card-image">
+                            ${card.hasError ? '<div class="error-badge">ERROR CARD</div>' : ''}
                             <img src="${card.image}" alt="${card.name}" onerror="this.src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png'">
                         </div>
                         <div class="card-content">
@@ -574,7 +731,7 @@
                             <div class="card-details">
                                 <div class="detail-row">
                                     <span class="detail-label">Set</span>
-                                    <span class="detail-value">${card.set} (${card.setCode})</span>
+                                    <span class="detail-value">${card.set} (${card.setCode || '-'})</span>
                                 </div>
                                 <div class="detail-row">
                                     <span class="detail-label">Card #</span>
@@ -585,8 +742,10 @@
                                     <span class="detail-value"><span class="badge ${getRarityClass(card.rarity)}">${card.rarity}</span></span>
                                 </div>
                                 <div class="detail-row">
-                                    <span class="detail-label">Variant</span>
-                                    <span class="detail-value">${card.variant}</span>
+                                    <span class="detail-label">Variations</span>
+                                    <span class="detail-value">
+                                        <div class="variation-tags">${renderVariationTags(card.variations)}</div>
+                                    </span>
                                 </div>
                                 ${card.artist ? `
                                 <div class="detail-row">
@@ -594,13 +753,8 @@
                                     <span class="detail-value">${card.artist}</span>
                                 </div>
                                 ` : ''}
-                                ${card.notes ? `
-                                <div class="detail-row">
-                                    <span class="detail-label">Notes</span>
-                                    <span class="detail-value" style="text-align: left; font-size: 0.85em;">${card.notes}</span>
-                                </div>
-                                ` : ''}
                             </div>
+                            ${card.errorInfo ? renderErrorInfo(card.errorInfo) : ''}
                         </div>
                     </div>
                 `).join('');
@@ -631,24 +785,28 @@
                                 <tr>
                                     <th>Card Name</th>
                                     <th>Set</th>
+                                    <th>Code</th>
                                     <th>Card #</th>
                                     <th>Language</th>
                                     <th>Year</th>
                                     <th>Rarity</th>
-                                    <th>Variant</th>
+                                    <th>Variations</th>
+                                    <th>Error</th>
                                     <th>Artist</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 ${filteredCards.map(card => `
-                                    <tr>
+                                    <tr class="${card.hasError ? 'has-error' : ''}">
                                         <td><strong>${card.name}</strong></td>
                                         <td>${card.set}</td>
+                                        <td>${card.setCode || '-'}</td>
                                         <td>${card.cardNumber}</td>
                                         <td>${card.language}</td>
                                         <td>${card.year}</td>
                                         <td><span class="badge ${getRarityClass(card.rarity)}">${card.rarity}</span></td>
-                                        <td>${card.variant}</td>
+                                        <td><div class="variation-tags">${renderVariationTags(card.variations)}</div></td>
+                                        <td>${card.hasError ? `<a href="${card.errorInfo?.sources[0]?.url || '#'}" target="_blank" style="color: #f59e0b;">⚠️ ${card.errorInfo?.name || 'Error'}</a>` : '-'}</td>
                                         <td>${card.artist || '-'}</td>
                                     </tr>
                                 `).join('')}
@@ -666,6 +824,7 @@
         document.getElementById('languageFilter').addEventListener('change', filterCards);
         document.getElementById('yearFilter').addEventListener('change', filterCards);
         document.getElementById('rarityFilter').addEventListener('change', filterCards);
+        document.getElementById('variationFilter').addEventListener('change', filterCards);
 
         document.getElementById('gridViewBtn').addEventListener('click', function() {
             document.getElementById('gridViewBtn').classList.add('active');
